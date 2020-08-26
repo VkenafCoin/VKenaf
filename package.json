@@ -1,0 +1,17 @@
+{
+  "name": "VKenaf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VKenaf develope team",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "1.12.0"
+  }
+}
